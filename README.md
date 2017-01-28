@@ -1,5 +1,5 @@
 # CrazyButton
-![](https://github.com/merisahakyan/CrazyButton/blob/master/crazy.gif)
+![](https://github.com/merisahakyan/CrazyButton/blob/master/crazy.gif)</br>
 Add the _button1_MouseMove(object sender, MouseEventArgs e)_ handler and your button would fly too :smile:
 ```cs
 private void button1_MouseMove(object sender, MouseEventArgs e)
